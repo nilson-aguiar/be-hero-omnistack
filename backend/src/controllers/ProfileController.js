@@ -5,7 +5,7 @@ module.exports = {
     const { page = 1 } = request.query;
     const ong_id = request.headers.authorization;
 
-    const [count] = await connection(table_name)
+    const [count] = await connection("incidents")
       .where("ong_id", ong_id)
       .count();
 
