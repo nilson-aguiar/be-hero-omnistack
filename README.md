@@ -7,7 +7,12 @@ Project created as a challenge from OmnistackWeek 11. If you're passing by, feel
 Projeto criado para o desafio da Semana Omnistack 11. Se está passando por aqui aproveita e deixa uma estrelinha no projeto! Obrigado!
 
 
+## TO-DOS
 
+* Adicionar autenticação com JWT
+* Finalizar testes de integração
+* Automatizar testes e builds
+* Adicionar Styled Components
 
 
 
